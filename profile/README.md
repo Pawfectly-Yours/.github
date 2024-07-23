@@ -31,14 +31,6 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
 <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/508/807/png-transparent-google-docs-google-drive-internet-document-google-blue-angle-text-thumbnail.png" alt="google docs" width="40" height="40"/></a>
 <a href="https://app.eraser.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/E/eraser-icon-logo-F728D47E71-seeklogo.com.png" alt="Eraser" width="40" height="40"/></a>
 
-## Documentation
-
-[Eraser (ERD)](https://app.eraser.io/workspace/m4f7SGPYGVJKBIfU7Fxh?origin=share)
-
-[Figma (Design)](https://www.figma.com/design/jNa9Voy8D8HeGUBuPPU9pT/Pawfectly-Yours?node-id=9-7&t=AN2MuBDVTgjZq9lA-1)
-
-[Google Docs](https://docs.google.com/document/d/1qOMJwcjnZS49EvZ_ECBbvk-wtwpj1b5B_8Lj0THoNQU/edit?usp=sharing)
-
 ## Key Features
 
 ### Admin Dashboard & Super Admin
@@ -80,13 +72,6 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
   - Dog Grooming Kits
   - Dog Vitamins
 
-
-## Authors
-- [@Gene Paul Mar Javier](https://github.com/javiergenepaul)
-- [@Reancy Villacarlos](https://github.com/daikkin)
-- [@Rochenette Legaspina](https://github.com/Rochenette)
-
-
 ## Microservice Architechture
 
 ### Backend Services
@@ -109,6 +94,19 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
 ### Front-End Service
 - **Pawfectly Yours React Service**: [Repository URL](https://github.com/Pawfectly-Yours/pawfectly-yours-react)
 - **Pawfectly Yours Vue Service**: [Repository URL](https://github.com/Pawfectly-Yours/pawfectly-yours-vue)
+
+## Documentation
+
+[Eraser (ERD)](https://app.eraser.io/workspace/m4f7SGPYGVJKBIfU7Fxh?origin=share)
+
+[Figma (Design)](https://www.figma.com/design/jNa9Voy8D8HeGUBuPPU9pT/Pawfectly-Yours?node-id=9-7&t=AN2MuBDVTgjZq9lA-1)
+
+[Google Docs](https://docs.google.com/document/d/1qOMJwcjnZS49EvZ_ECBbvk-wtwpj1b5B_8Lj0THoNQU/edit?usp=sharing)
+
+## Authors
+- [@Gene Paul Mar Javier](https://github.com/javiergenepaul)
+- [@Reancy Villacarlos](https://github.com/daikkin)
+- [@Rochenette Legaspina](https://github.com/Rochenette)
 
 ## Feedback
 
