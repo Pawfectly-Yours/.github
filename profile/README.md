@@ -97,11 +97,9 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
 
 ## Documentation
 
-[Eraser (ERD)](https://app.eraser.io/workspace/m4f7SGPYGVJKBIfU7Fxh?origin=share)
-
-[Figma (Design)](https://www.figma.com/design/jNa9Voy8D8HeGUBuPPU9pT/Pawfectly-Yours?node-id=9-7&t=AN2MuBDVTgjZq9lA-1)
-
-[Google Docs](https://docs.google.com/document/d/1qOMJwcjnZS49EvZ_ECBbvk-wtwpj1b5B_8Lj0THoNQU/edit?usp=sharing)
+- [Eraser (ERD)](https://app.eraser.io/workspace/m4f7SGPYGVJKBIfU7Fxh?origin=share)
+- [Figma (Design)](https://www.figma.com/design/jNa9Voy8D8HeGUBuPPU9pT/Pawfectly-Yours?node-id=9-7&t=AN2MuBDVTgjZq9lA-1)
+- [Google Docs](https://docs.google.com/document/d/1qOMJwcjnZS49EvZ_ECBbvk-wtwpj1b5B_8Lj0THoNQU/edit?usp=sharing)
 
 ## Authors
 - [@Gene Paul Mar Javier](https://github.com/javiergenepaul)
