@@ -76,20 +76,20 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
 
 ### Backend Services
 ##### Python Django Services
-- **Auth Django Service**: [Repository URL](#)
-- **Admin Dashboard Django Service**: [Repository URL](#)
-- **Vet Management Django Service**: [Repository URL](#)
-- **Vet Card Tracker Django Service**: [Repository URL](#)
-- **Dog Adoption Django Service**: [Repository URL](#)
-- **Inventory Django Service**: [Repository URL](#)
+- **Auth Django Service**: [Repository URL](#) (TBA)
+- **Admin Dashboard Django Service**: [Repository URL](#) (TBA)
+- **Vet Management Django Service**: [Repository URL](#) (TBA)
+- **Vet Card Tracker Django Service**: [Repository URL](#) (TBA)
+- **Dog Adoption Django Service**: [Repository URL](#) (TBA)
+- **Inventory Django Service**: [Repository URL](#) (TBA)
 
 ##### Java SpringBoot Services
-- **Auth Spring Service**: [Repository URL](#)
-- **Admin Dashboard Spring Service**: [Repository URL](#)
-- **Vet Management Spring Service**: [Repository URL](#)
-- **Vet Card Tracker Spring Service**: [Repository URL](#)
-- **Dog Adoption Spring Service**: [Repository URL](#)
-- **Inventory Spring Service**: [Repository URL](#)
+- **Auth Spring Service**: [Repository URL](#) (TBA)
+- **Admin Dashboard Spring Service**: [Repository URL](#) (TBA)
+- **Vet Management Spring Service**: [Repository URL](#) (TBA)
+- **Vet Card Tracker Spring Service**: [Repository URL](#) (TBA)
+- **Dog Adoption Spring Service**: [Repository URL](#) (TBA)
+- **Inventory Spring Service**: [Repository URL](#) (TBA)
 
 ### Front-End Service
 - **Pawfectly Yours React Service**: [Repository URL](https://github.com/Pawfectly-Yours/pawfectly-yours-react)
