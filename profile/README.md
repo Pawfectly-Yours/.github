@@ -72,10 +72,8 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
   - Dog Grooming Kits
   - Dog Vitamins
 
-## Microservice Architechture
-
-### Backend Services
-##### Python Django Services
+# Microservice Architechture
+## Python Django Services
 - **Auth Django Service**: [Repository URL](#) (TBA)
 - **Admin Dashboard Django Service**: [Repository URL](#) (TBA)
 - **Vet Management Django Service**: [Repository URL](#) (TBA)
@@ -83,17 +81,40 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
 - **Dog Adoption Django Service**: [Repository URL](#) (TBA)
 - **Inventory Django Service**: [Repository URL](#) (TBA)
 
-##### Java SpringBoot Services
-- **Auth Spring Service**: [Repository URL](#) (TBA)
-- **Admin Dashboard Spring Service**: [Repository URL](#) (TBA)
-- **Vet Management Spring Service**: [Repository URL](#) (TBA)
-- **Vet Card Tracker Spring Service**: [Repository URL](#) (TBA)
-- **Dog Adoption Spring Service**: [Repository URL](#) (TBA)
-- **Inventory Spring Service**: [Repository URL](#) (TBA)
+## Java SpringBoot Services
+### Spring Auth Service 
+- **Description:** Manages authentication and authorization for the application.
+- **Port:** `5001`
+- **Repository URL:** [Spring Auth Service](https://github.com/Pawfectly-Yours/spring-auth)
 
-### Front-End Service
-- **Pawfectly Yours React Service**: [Repository URL](https://github.com/Pawfectly-Yours/pawfectly-yours-react)
-- **Pawfectly Yours Vue Service**: [Repository URL](https://github.com/Pawfectly-Yours/pawfectly-yours-vue)
+### Spring Admin Dashboard Service: [Repository URL](#)
+- **Description:** Provides backend functionality for the admin dashboard, including user and pet management.
+- **Port:** `5002`
+- **Repository URL:** [Spring Admin Dashboard Service](https://github.com/Pawfectly-Yours/spring-admin-service)
+
+### Spring Vet Management Service
+- **Description:** Handles vet records and management.
+- **Port:** `5003`
+- **Repository URL:** [Spring Vet Management Service](https://github.com/Pawfectly-Yours/spring-vet-management)
+
+### Spring Vet Card Tracker Service
+- **Description:** Tracks and manages vet card information and appointments.
+- **Port:** `5004`
+- **Repository URL:** [Spring Vet Tracker Service](https://github.com/Pawfectly-Yours/spring-vet-card-tracker)
+
+### Spring Dog Adoption Service
+- **Description:** Manages the dog adoption process and related data.
+- **Port:** `5005`
+- **Repository URL:** [Spring Pet Adoption Service](https://github.com/Pawfectly-Yours/spring-pet-adoption)
+
+### Spring Inventory Service
+- **Description:** Manages inventory for pet supplies.
+- **Port:** `5006`
+- **Repository URL:** [Spring Inventory Service](https://github.com/Pawfectly-Yours/spring-inventory)
+
+## Front-End Service
+- **Pawfectly Yours React Service**: [React Pawfectly Yours](https://github.com/Pawfectly-Yours/pawfectly-yours-react)
+- **Pawfectly Yours Vue Service**: [Vue Pawfectly Yours](https://github.com/Pawfectly-Yours/pawfectly-yours-vue)
 
 ## Documentation
 
