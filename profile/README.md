@@ -126,6 +126,7 @@ Pawfectly Yours is a comprehensive web application designed to manage all aspect
 - [@Gene Paul Mar Javier](https://github.com/javiergenepaul)
 - [@Reancy Villacarlos](https://github.com/daikkin)
 - [@Rochenette Legaspina](https://github.com/Rochenette)
+- [@Dan Lester Sanz](https://github.com/dan2xsanz)
 
 ## Feedback
 
